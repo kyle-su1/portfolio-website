@@ -67,7 +67,7 @@ const shelfData = {
     { name: 'Dragon New Warm Mountain I Believe in You', artist: 'Big Thief', art: 'albums/dnwmibiy.jpg' },
     { name: 'Punisher', artist: 'Phoebe Bridgers', art: 'albums/punisher.jpg' },
     { name: 'Civilisation', artist: 'Kero Kero Bonito', art: 'albums/civilisation.jpg' },
-    { name: 'De todas las flores', artist: 'Natalia Lafourcade', art: 'albums/dtlf.jpg' },
+    { name: 'De Todas las Flores', artist: 'Natalia Lafourcade', art: 'albums/dtlf.jpg' },
     { name: 'SOUL LADY', artist: 'YUKIKA', art: 'albums/soul_lady.jpg' },
     { name: 'ワンルームサバイバル', artist: 'Serani Poji ', art: 'albums/ors.jpg' }
 
@@ -81,6 +81,8 @@ const shelfData = {
   vocab: [
     { word: 'somnambulant', pos: ' adj.', def: 'resembling or characteristic of a sleepwalker; sluggish.' },
     { word: 'desultory', pos: ' adj.', def: 'lacking a plan, purpose, or enthusiasm.' },
+    { word: 'crepescular', pos: ' adj.', def: 'of, resembling, or relating to twilight.' },
+    { word: 'prerogative', pos: ' n.', def: 'a right or privilege exclusive to a particular individual or class.' },
   ],
 };
 
