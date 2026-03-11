@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "resume.pdf": true,
+    "albums": true
+  }
+}
