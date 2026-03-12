@@ -176,6 +176,14 @@ body.dark-mode .social-icon-btn:hover {
   color: #111;
 }
 
+body.dark-mode .theme-toggle {
+  color: #aaa;
+}
+
+body.dark-mode .theme-toggle:hover {
+  color: #fff;
+}
+
 /* Container */
 .container {
   max-width: 860px;
