@@ -83,6 +83,7 @@ const shelfData = {
     { word: 'desultory', pos: ' adj.', def: 'lacking a plan, purpose, or enthusiasm.' },
     { word: 'crepescular', pos: ' adj.', def: 'of, resembling, or relating to twilight.' },
     { word: 'prerogative', pos: ' n.', def: 'a right or privilege exclusive to a particular individual or class.' },
+    { word: 'pellucid', pos: ' adj.', def: 'translucently clear.' },
   ],
 };
 
